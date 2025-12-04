@@ -36,7 +36,8 @@ fun BioScreen() {
         Text(
             text = "Dheeraj Ravidas",
             fontSize = 30.sp,
-            fontWeight = FontWeight.Bold
+            fontWeight = FontWeight.Bold,
+            color = Color.Red
         )
 
         Spacer(modifier = Modifier.height(20.dp))
