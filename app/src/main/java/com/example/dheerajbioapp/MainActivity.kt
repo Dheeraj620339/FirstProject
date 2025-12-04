@@ -28,7 +28,7 @@ fun BioScreen() {
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .background(Color.Red)
+            .background(Color.Yellow)
             .padding(20.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
